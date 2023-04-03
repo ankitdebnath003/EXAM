@@ -69,6 +69,7 @@ p {
 }
 
 h1 {
+    text-align: center;
     background-clip: border-box;
     background: -webkit-linear-gradient(rgb(38, 38, 34), rgb(66, 111, 36));
     -webkit-background-clip: text;
